@@ -1,1 +1,2 @@
-permalink: /:title.html
+url: http://wfjackson3.github.com/QSWP/
+permalink: /:categories/:title.html
